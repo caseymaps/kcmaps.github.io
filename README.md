@@ -21,5 +21,5 @@
     <meta charset=“UTF-8” />
     <link rel="stylesheet" href="style.css" />
     <link rel="shortcut icon" href="images/bow.svg" type="image/x-icon" />
-    <title>Athena Hernandez</title>
+    <title>Casey Mapanao's Computer Science Career Research </title>
 </head>
